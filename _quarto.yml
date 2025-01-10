@@ -1,0 +1,32 @@
+project:
+  type: website
+theme: spacelab
+execute:
+  freeze: auto
+date: last-modified  
+format:
+  html: 
+    toc: true
+
+
+website:
+  title: "trmilli"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd                   
+    right:   
+      - icon: person-circle
+        menu:
+          - text: "About me"
+            href: https://neelsmith.quarto.pub
+          - text: "More of my digital scholarship"
+            href: https://neelsmith.quarto.pub/digschol/
+        aria-label: "More of my work"  
+
+  sidebar:
+    - title: "Home"
+      contents:
+        - index.qmd     
