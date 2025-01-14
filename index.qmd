@@ -6,3 +6,15 @@ engine: julia
 
 
 > *Archaeological and epigraphic material for the study of ancient Lycian*.
+
+## Digital resources
+
+
+- Dane Scott's site, [Trmmilli Texts](https://descot21.github.io/Lycian/). Summary:
+
+> [the site contains] diplomatic and normalized editions of Lycian texts tied closely with citable images of the iscription istelf. Tied to each inscription is an automatically updating concordance of Lycian words and a lexicon based on Craig Melchert’s 2004 book A Dictionary of the Lycian Language. Also included is a companion of articles on the divinities mentioned in the epigraphic corpus. Forthcomming are resources for the morphology of Lycian terms that will be tied to the text in which each lexical token appears. Translation of these texts, though possible for a select number of inscriptions with the completion of the morphology, is beyond the scope of this project.
+
+
+- My github repository, [trmilli](https://github.com/neelsmith/trmilli):
+
+> a repository of archaeological and epigraphic data for the study of ancient Lycia

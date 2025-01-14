@@ -20,10 +20,8 @@ website:
     right:   
       - icon: person-circle
         menu:
-          - text: "About me"
+          - text: "Neel Smith: digital scholarship"
             href: https://neelsmith.quarto.pub
-          - text: "More of my digital scholarship"
-            href: https://neelsmith.quarto.pub/digschol/
         aria-label: "More of my work"  
 
   sidebar:
